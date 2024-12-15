@@ -1,0 +1,12 @@
+name: ASTUDIO
+title: ASTUDIO
+username: salomemargaretqh
+account: salomemargaretqh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13602604
+bundleId: 9524652
+url: https://salomemargaretqh.shinyapps.io/ASTUDIO/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
